@@ -1,0 +1,20 @@
+[
+   {
+      "question": "Calculate the discharge for an oil of viscousity 0.02 Ns/m2 flowing between two stationary parallel plates 1.2 m wide maintained 10 mm apart. The velocity midway between the plates is 2.2 m/s.",
+      "qid": 1,
+      "option_a": "0.4051 m<sup>3</sup>",
+      "option_b": "0.3121 m<sup>3</sup>",
+      "option_c": "0.2051 m<sup>3</sup>",
+      "option_d": "0.0176 m<sup>3</sup>",
+      "correct_option": "d"
+   },
+   {
+      "question": "Calculate the discharge for an oil of viscousity 0.02 Ns/m2 flowing between two stationary parallel plates 0.9 m wide maintained 8 mm apart. The velocity midway between the plates is 2.1 m/s.",
+      "qid": 2,
+      "option_a": "0.01008 m<sup>3</sup>",
+      "option_b": "0.02311 m<sup>3</sup>",
+      "option_c": "0.10215 m<sup>3</sup>",
+      "option_d": "0.11025 m<sup>3</sup>",
+      "correct_option": "a"
+   }
+]

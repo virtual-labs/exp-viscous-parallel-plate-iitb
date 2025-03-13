@@ -1,1 +1,1 @@
-## Experiment name
+## Viscous flow between two parallel plates
